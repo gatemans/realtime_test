@@ -14,19 +14,6 @@ This project helps demonstrate:
 - why MATLAB is useful for simulation and engineering analysis
 - how execution time relates to control systems and robotics
 
-## Main idea
-
-In real-time and embedded systems, the most important factor is often not just speed, but predictability.
-
-A program may run fast, but if its execution time changes from one run to another, it may not be reliable for real-time control.
-
-This project is useful for understanding concepts such as:
-
-- execution time
-- determinism
-- jitter
-- timing behavior
-- real-time suitability
 
 ## Why this matters
 
