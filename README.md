@@ -37,15 +37,7 @@ If the program timing is inconsistent, the control performance can degrade.
 
 This is why lower-level languages such as C are often preferred in real-time applications.
 
-## Educational value
 
-This project is a simple starting point for students and engineers who want to explore:
-
-- benchmarking basics
-- timing analysis
-- embedded programming
-- control loop execution
-- the difference between fast software and real-time software
 
 ## Conclusion
 
